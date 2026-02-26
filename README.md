@@ -1,62 +1,63 @@
-hi
+
+# hi
 
 I started programming at 8.
-No courses, no bootcamps — just projects.
 
-I learn by building.
-If I can’t test an idea in code, I don’t consider it learned.
+No courses. No bootcamps. Just building.
 
-Most of my work revolves around simulations, but I’ve explored a wide range of areas:
+I learn by implementing.  
+If I can't test an idea in code, I don’t consider it learned.
 
-AI experiments
+---
 
-Game development
+## what I do
 
-A custom 2D game engine (written in Java, one of my earlier serious projects)
+Most of my projects revolve around simulations.
 
-Various low-level and systems-oriented experiments
+I’ve also explored:
+- AI experiments
+- Game development
+- A custom 2D game engine (written in Java, one of my early serious projects)
+- Various systems and low-level experiments
 
-languages
-
-Main stack (ordered by preference):
-
-C
-
-Zig (currently learning)
-
-C++
-
-Java
-
-I generally care about performance and control, but I don’t optimize for the sake of optimization.
+I care about performance and control, but I don’t optimize for the sake of ego.  
 I write code because it’s fun. The rest follows.
 
-environment
+---
 
-Arch Linux
+## languages
 
-Neovim
+Ordered by preference:
 
-tmux
+- C
+- Zig (currently learning)
+- C++
+- Java
 
-Hyprland
+---
+
+## environment
+
+- Arch Linux
+- Neovim
+- tmux
+- Hyprland
 
 Terminal-first. Minimal. Fast.
 
-philosophy
+---
 
-Theory is only real after implementation.
+## philosophy
 
-Abstractions are tools, not defaults.
+- Theory isn’t real until implemented.
+- Abstractions are tools, not defaults.
+- Build > talk.
+- Curiosity over trends.
 
-Build > Talk.
+---
 
-Curiosity over trends.
+## long term
 
-long-term direction
-
-Designing my own programming language
-
-Building my own operating system
-
-Exploring systems-level software deeply
+- Designing my own programming language
+- Building my own operating system
+- Going deeper into systems-level software
