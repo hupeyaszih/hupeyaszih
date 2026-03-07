@@ -25,14 +25,13 @@ I write code because it’s fun. The rest follows.
 
 ---
 
-## languages
-
-Ordered by preference:
+## favourite languages
 
 - C
 - Zig (currently learning)
 - C++
 - Java
+  
 
 ---
 
