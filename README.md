@@ -7,7 +7,7 @@ No courses. No bootcamps. Just building.
 
 I learn by implementing.  
 If I can't test an idea in code, I don’t consider it learned.
-
+(I think AI tools are useless in many cases, so I don't use them for programming. I've tried, but I didn't enjoy it, so I am not going to use it for programming and that's it)
 ---
 
 ## what I do
