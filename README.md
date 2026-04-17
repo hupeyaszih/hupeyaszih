@@ -37,10 +37,9 @@ I write code because it’s fun. The rest follows.
 
 ## environment
 
-- Arch Linux
+- Gentoo
 - Neovim
-- tmux
-- Hyprland
+- Niri
 
 Terminal-first. Minimal. Fast.
 
